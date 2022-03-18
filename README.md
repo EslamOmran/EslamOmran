@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me ...
+- 📫 How to reach me eslamelsayedomran@gmail.com
 
 <!---
 EslamOmran/EslamOmran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
